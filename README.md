@@ -1,6 +1,6 @@
 # AnyDL Bot ❤
 
-## This bot can download video or audio from youtube quickly! Can be found in telegram as [@JEAnyDLBot](http://t.me/UBAnyDLBot)
+## This bot can download video or audio from youtube quickly! Can be found in telegram as [@UBAnyDLBot](http://t.me/UBAnyDLBot)
 
 ### Deploy to Heroku 🏃‍♂
 
@@ -14,6 +14,8 @@
 
 [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
+[Uvindu Bro 👻]
+
 ### Developers:
 
-[@ImJanindu](https://t.me/ImJanindu)
+[@Uvindu Bro 🇱🇰](https://t.me/Uvindu_Bro)
