@@ -14,7 +14,7 @@
 
 [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
-[Uvindu Bro 👻]
+Uvindu Bro 👻
 
 ### Developers:
 
